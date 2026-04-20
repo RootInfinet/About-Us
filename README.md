@@ -10,19 +10,19 @@
 <table width="100%">
   <tr>
     <td width="33.3%" align="center">
-      <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-web-development-web-development-flat-juicy-fish-15.png" width="50px"/>
+      <img src="https://cdn-icons-png.flaticon.com/64/2210/2210153.png" width="50px"/>
       <br />
       <b>Full-Stack Development</b>
       <p>بناء تطبيقات ويب متكاملة (Frontend & Backend) بأحدث التقنيات لضمان السرعة والأداء.</p>
     </td>
     <td width="33.3%" align="center">
-      <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-mobile-development-web-development-flat-juicy-fish-3.png" width="50px"/>
+      <img src="https://cdn-icons-png.flaticon.com/64/2586/2586488.png" width="50px"/>
       <br />
       <b>Mobile Applications</b>
       <p>تطوير تطبيقات موبايل (iOS & Android) باستخدام Flutter لتقديم تجربة مستخدم سلسة وعصرية.</p>
     </td>
     <td width="33.3%" align="center">
-      <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-security-cyber-security-flat-juicy-fish-3.png" width="50px"/>
+      <img src="https://cdn-icons-png.flaticon.com/64/10253/10253457.png" width="50px"/>
       <br />
       <b>Cybersecurity & Infra</b>
       <p>تأمين الأنظمة وتصميم بنية تحتية قوية ومقاومة للاختراق مع تنفيذ أفضل معايير الحماية.</p>
